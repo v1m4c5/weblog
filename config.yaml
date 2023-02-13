@@ -2,7 +2,7 @@
 baseURL: https://v1m4c5.github.io/weblog/
 languageCode: en-us
 theme: smigle
-# themesDir: the # Only needed for running the example site
+themesDir: themes2 # Only needed for running the example site
 title: Vimacs
 menu:
   main:
