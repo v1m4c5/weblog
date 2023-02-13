@@ -4,8 +4,8 @@ html {
 :root {
   --bgcolor: white;
   --fontcolor: #444;
-  --linkcolor: #00e;
-  --visitedcolor: #551a8b;
+  --linkcolor: #3C96A3;
+  --visitedcolor: #3C96A3;
   --precolor: #fff;
   --prebgcolor: #000;
 }
@@ -14,7 +14,7 @@ html {
      --bgcolor: black;
      --fontcolor: white;
      --linkcolor: #5bf;
-     --visitedcolor: #ae5ee0;
+     --visitedcolor: #3C96A3;
      --precolor: #fff;
      --prebgcolor: #383838;
   }
