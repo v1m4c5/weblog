@@ -1,5 +1,5 @@
 # exampleSite/config.yaml
-baseURL: https://v1m4c5.github.io
+baseURL: https://v1m4c5.github.io/weblog/
 languageCode: en-us
 theme: smigle
 # themesDir: the # Only needed for running the example site
